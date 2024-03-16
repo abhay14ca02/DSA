@@ -3,7 +3,7 @@ package com.arrays.countfreqdigit;
 import java.util.HashMap;
 import java.util.Map;
 
-// Question - Problem statement: Given an array, we have found the number of occurrences of each element in the array.
+// Problem statement: Given an array, we have to find the number of occurrences of each element in the array.
 // Input: arr[] = {11,5,6,11,15,11,5,6};
 // Output: 11 ---> 3
 //          5 ---> 2
